@@ -1,0 +1,18 @@
+{
+    "id": 145063901,
+    "category": {
+      "id": 1,
+      "name": "dog"
+    },
+    "name": "Snoopy",
+    "photoUrls": [
+      ""
+    ],
+    "tags": [
+      {
+        "id": 1,
+        "name": "vacinado"
+      }
+    ],
+    "status": "sold"
+  }
